@@ -2,6 +2,17 @@
 
 A simple **Bash-based Linux System Health Monitor** that displays important system information and resource usage directly in the terminal.
 
+## 📸 Project Screenshots
+
+### 📝 Bash Script
+
+![Linux System Health Monitor Script](script.png)
+
+### 📊 System Health Output
+
+![Linux System Health Monitor Output](output.png)
+
+
 #  📌 Features
 
 - 🖥️ Hostname
