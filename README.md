@@ -35,9 +35,15 @@ A simple **Bash-based Linux System Health Monitor** that displays important syst
 
 ```text
 Linux-System-Health-Monitor/
+│
 ├── Linux_System_Health_Monitor.sh
-└── README.md
+├── README.md
+│
+└── screenshots/
+    ├── script.png
+    └── output.png
 ```
+
 # 🚀 How to Run
 
 ## 1. Clone the Repository
